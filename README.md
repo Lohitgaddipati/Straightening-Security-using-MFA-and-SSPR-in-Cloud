@@ -9,3 +9,5 @@ These initiatives showcased my proficiency in optimizing security while prioriti
 In parallel, I deployed Cloud-Based MFA, expertly configuring Conditional Access policies to mandate MFA for all cloud applications. These endeavors fortified security, streamlined user access, and fortified defenses against unauthorized entry. 
 
 My skill set encompasses Self-Service Password Reset, Cloud-Based Multi-Factor Authentication, Conditional Access, User Access Management, and Cybersecurity Enhancement, positioning me as an asset to organizations seeking robust security solutions.
+
+For detailed information on enabling MFA, visit my repository about SSO configuration and Implementation
